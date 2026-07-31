@@ -52,7 +52,7 @@ The dataset was successfully cleaned and prepared for analysis. The cleaning pro
 
 ## Project Screenshot
 ### Before vs After Cleaning(Code + Output)
-![Before vs After Data Cleaning](Before vs After Data Cleaning.png)
+![Before vs After Data Cleaning](Before_vs_After_Data_Cleaning.png)
 
 ## 💡 Skill Demonstrated
 - Data Cleaning
