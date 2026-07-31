@@ -47,6 +47,12 @@ Highest purchase frequency and spending.
 - **Cluster 3 - Loyal Customers:**
 Frequent purchase with high spending.
 
+## Project Screenshots
+![Elbow Method](Screenshots/Elbow%20Method.png)
+![Customer Segment_Frequency vs Monetary](Screenshots/Customer%20Segment_Frequency%20vs%20Monetary.png)
+![Customer Segment_Recency vs Monetary](Screenshots/Customer%20Segment_Recency%20vs%20Monetary.png)
+![Cluster Distribution](Screenshots/Cluster%20Distribution.png)
+
 ## 💡Business Recommendations
 - Reward VIP customers with exclusive offers and loyalty programs.
 - Retain Loyal customers through personalized recommendations.
