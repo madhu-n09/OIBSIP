@@ -50,6 +50,10 @@ The following data cleaning methods were performed:
 ## 📈 Project Outcome
 The dataset was successfully cleaned and prepared for analysis. The cleaning process improved data consistency, reduced errors, and ensured that the dataset is reliable for future analytical tasks and visualization.
 
+## Project Screenshot
+### Before vs After Cleaning(Code + Output)
+![Before vs After Data Cleaning](Before_vs_After_Cleaning.png)
+
 ## 💡 Skill Demonstrated
 - Data Cleaning
 - Data Validation
