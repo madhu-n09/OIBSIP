@@ -44,10 +44,15 @@ This project performs Exploratory Data Analysis(EDA) on a retail sales dataset t
 - Recommendations
 
 ## Project Screenshots
+### Monthly Sales Trend
 ![Monthly Sales Trend](Screenshots/Monthly%20Sales%20Trend.png)
+### Quarterly Sales Trend
 ![Quarterly Sales Trend](Screenshots/Quarterly%20Sales%20Trend.png)
+### Top 10 Selling Products
 ![Top 10 Selling Products](Screenshots/Top%2010%20Selling%20Products.png)
+### Revenue by Product Category
 ![Revenue by Product Category](Screenshots/Revenue%20by%20Product%20Category.png)
+### Correlation Heatmap
 ![Correlation Heatmap](Screenshots/Correlation%20Heatmap.png)
 
 ## 💡 Key Insights
